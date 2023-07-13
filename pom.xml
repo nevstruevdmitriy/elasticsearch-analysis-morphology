@@ -40,8 +40,6 @@
         </developer>
     </developers>
 
-fdf
-
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
